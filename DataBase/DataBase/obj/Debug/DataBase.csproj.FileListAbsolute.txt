@@ -1,0 +1,14 @@
+C:\Users\maska\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\maska\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\maska\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.log_in.resources
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.sign_up.resources
+C:\Users\maska\source\repos\DataBase\DataBase\obj\Debug\DataBase.DepartamentForm.resources
